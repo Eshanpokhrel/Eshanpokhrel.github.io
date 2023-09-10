@@ -137,6 +137,9 @@ body{
     .alertBox{
         height: 90px;
         width: 215px;
-        margin-top: -428px;
+        margin-top: -353px;
+    }
+    .player {
+        font-size: 21px;
     }
 }
